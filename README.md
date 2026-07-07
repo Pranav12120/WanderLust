@@ -1,7 +1,7 @@
 # WanderLust
 
 WanderLust is a full-stack travel listing web app where users can explore places, create listings, upload images, review stays, and view exact property locations on an interactive map.
-Live Demo: https://wanderlust-sfzl.onrender.com
+Live Demo: https://wanderlust-sfzl.onrender.com (after the link opens, click on explore)
 
 ## Features
 
